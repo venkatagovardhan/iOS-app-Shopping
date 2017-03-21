@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Fridge</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Kenstar NH163BBR-FDA Direct-cool Single-door Refrigerator (150 Ltrs, 3 Star Rating, Burgundy Red)</string>
+			<key>price</key>
+			<string>  Rs 7,590.00</string>
+			<key>Brand</key>
+			<string>Kenstar</string>
+			<key>Energy Rating</key>
+			<string>3 Star</string>
+			<key>Model</key>
+			<string>NH163BBR-FDA</string>
+			<key>Capacity</key>
+			<string>150 Liters</string>
+			<key>image</key>
+			<string>kenstarfridge1.jpg</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Samsung RR19J21C3RJ Direct-cool Single-door Refrigerator (192 Ltrs, Red Tendril)</string>
+			<key>price</key>
+			<string>Rs 14,500.00</string>
+			<key>Brand</key>
+			<string>Samsung</string>
+			<key>Energy Rating</key>
+			<string>3 Star</string>
+			<key>Model</key>
+			<string>RR19J21C3RJ</string>
+			<key>Capacity</key>
+			<string>192 Liters</string>
+			<key>image</key>
+			<string>samsungfridge1.jpg</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>LG GL-B201AMLN Direct-cool Single-door Refrigerator (190 Ltrs, 5 Star Rating, Marine Lily)</string>
+			<key>price</key>
+			<string>Rs 14,240.00</string>
+			<key>Brand</key>
+			<string>LG</string>
+			<key>Energy Rating</key>
+			<string>5 Star</string>
+			<key>Model</key>
+			<string>GL-B201AMLN</string>
+			<key>Capacity</key>
+			<string>190 Liters</string>
+			<key>image</key>
+			<string>LGfridge1.jpg</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Haier HRD-2015CBS-H Direct-cool Single-door Refrigerator (181 Ltrs, 4 Star Rating-2016, Brushline Silver)</string>
+			<key>price</key>
+			<string>Rs 10,990.00</string>
+			<key>Brand</key>
+			<string>Haier</string>
+			<key>Energy Rating</key>
+			<string>4 Star</string>
+			<key>Model</key>
+			<string>HRD-2015CBS-H-1</string>
+			<key>Capacity</key>
+			<string>181 Liters</string>
+			<key>image</key>
+			<string>haierfridge1.jpg</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Whirlpool Fp 263D Royal Frost-free Double-door Refrigerator (240 Ltrs, Mirror Black)</string>
+			<key>price</key>
+			<string>Rs 23,930.00</string>
+			<key>Brand</key>
+			<string>Whirlpool</string>
+			<key>Energy Rating</key>
+			<string>No Star Rating</string>
+			<key>Model</key>
+			<string>Fp 263D Royal</string>
+			<key>Capacity</key>
+			<string>240 Liters</string>
+			<key>image</key>
+			<string>whirlpoolfridge1.jpg</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kelvinator KW163PT-HR Direct-cool Single-door Refrigerator (150 Ltrs, 3 Star Rating, Gulmohar Red)</string>
+			<key>price</key>
+			<string>Rs 9,500.00 </string>
+			<key>Brand</key>
+			<string>Kelvinator</string>
+			<key>Energy Rating</key>
+			<string>3 Star </string>
+			<key>Model</key>
+			<string>KW163PT HR</string>
+			<key>Capacity</key>
+			<string>150 Liters</string>
+			<key>image</key>
+			<string>kelvinatorfridge1.jpg</string>
+		</dict>
+	</array>
+	<key>Airconditioner</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Voltas 185JY Split AC (1.5 Ton, 5 Star Rating, White, Copper)</string>
+			<key>price</key>
+			<string>Rs.  32,891.00</string>
+			<key>Brand</key>
+			<string>Voltas</string>
+			<key>Energy Rating</key>
+			<string>5 Star</string>
+			<key>Model</key>
+			<string>185JY</string>
+			<key>Capacity</key>
+			<string>1.5 tons</string>
+			<key>image</key>
+			<string>voltasA:c.jpg</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kenstar KSM55.WN1-MDA/QDL Split AC</string>
+			<key>price</key>
+			<string>Rs. 23,990.00</string>
+			<key>Brand</key>
+			<string>Kenstar</string>
+			<key>Energy Rating</key>
+			<string>5 Star</string>
+			<key>Model</key>
+			<string>KSM55.WN1-MDA/QDL</string>
+			<key>Capacity</key>
+			<string>1.5 tons</string>
+			<key>image</key>
+			<string>kenstarA:C.jpg</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Carrier Superia Split AC</string>
+			<key>price</key>
+			<string>Rs.  31,135.00</string>
+			<key>Brand</key>
+			<string>Carrier</string>
+			<key>Energy Rating</key>
+			<string>5 Star </string>
+			<key>Model</key>
+			<string>Superia</string>
+			<key>Capacity</key>
+			<string>1 tons</string>
+			<key>image</key>
+			<string>carrierA:C.jpg</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Carrier Superia Split AC</string>
+			<key>price</key>
+			<string>Rs. 38,950.00</string>
+			<key>Brand</key>
+			<string>Carrier</string>
+			<key>Energy Rating</key>
+			<string>5 Star</string>
+			<key>Model</key>
+			<string>Superia</string>
+			<key>Capacity</key>
+			<string>1.5 tons</string>
+			<key>image</key>
+			<string>carrierA:C2.jpg</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Voltas 122LYi Window AC</string>
+			<key>price</key>
+			<string>Rs. 19,957.00</string>
+			<key>Brand</key>
+			<string>Voltas</string>
+			<key>Energy Rating</key>
+			<string>2 Star </string>
+			<key>Model</key>
+			<string>WAC 122LYi</string>
+			<key>Capacity</key>
+			<string>1 tons</string>
+			<key>image</key>
+			<string>VoltasWindowA:c.jpg</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Daikin FTC50QRV16 Split AC</string>
+			<key>price</key>
+			<string>Rs. 36,700.00</string>
+			<key>Brand</key>
+			<string>Daikin</string>
+			<key>Energy Rating</key>
+			<string>3 Star</string>
+			<key>Model</key>
+			<string>FTC50QRV16</string>
+			<key>Capacity</key>
+			<string>1.5 tons</string>
+			<key>image</key>
+			<string>daikinA:c.jpg</string>
+		</dict>
+	</array>
+	<key>Washing Machine</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Whirlpool Classic 621S Fully-automatic Top-loading Washing Machine </string>
+			<key>price</key>
+			<string>Rs. 13,897.00</string>
+			<key>Brand</key>
+			<string>Whirlpool</string>
+			<key>Control Console</key>
+			<string>Fully Automatic</string>
+			<key>Model</key>
+			<string>Classic 621S</string>
+			<key>Capacity</key>
+			<string>6.2 Kilograms</string>
+			<key>image</key>
+			<string>whirlpoolWM.jpg</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>LG FH0B8NDL22 Fully-automatic Front-loading Washing Machine </string>
+			<key>price</key>
+			<string>Rs. 26,000.00</string>
+			<key>Brand</key>
+			<string>LG</string>
+			<key>Control Console</key>
+			<string>Fully Automatic</string>
+			<key>Model</key>
+			<string>FH0B8NDL22</string>
+			<key>Capacity</key>
+			<string>6 Kilograms</string>
+			<key>image</key>
+			<string>LGWM.jpg</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Videocon VS75Z11 Zaara Royale Semi-automatic Top-loading Washing Machine</string>
+			<key>price</key>
+			<string>Rs. 9,885.00</string>
+			<key>Brand</key>
+			<string>Videocon</string>
+			<key>Control Console</key>
+			<string>Semi Automatic</string>
+			<key>Model</key>
+			<string>VS75Z11</string>
+			<key>Capacity</key>
+			<string>7.5 Kilograms</string>
+			<key>image</key>
+			<string>videoconWM.jpg</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Onida WOF5508NW Fully-automatic Front-loading Washing Machine</string>
+			<key>price</key>
+			<string>Rs. 15,700.00 </string>
+			<key>Brand</key>
+			<string>Onida</string>
+			<key>Control Console</key>
+			<string>Fully Automatic
+Fully Automatic
+</string>
+			<key>Model</key>
+			<string>WOF5508NW</string>
+			<key>Capacity</key>
+			<string>5.5 Kilograms</string>
+			<key>image</key>
+			<string>onidaWM.jpg</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Videocon VT55H12 Digi Gracia Fully-automatic Top-loading Washing Machine </string>
+			<key>price</key>
+			<string>Rs. 11,369.00</string>
+			<key>Brand</key>
+			<string>Videocon</string>
+			<key>Control Console</key>
+			<string>Fully Automatic</string>
+			<key>Model</key>
+			<string>VT55H12</string>
+			<key>Capacity</key>
+			<string>5.5 Kilograms</string>
+			<key>image</key>
+			<string>videoconWm2.jpg</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Samsung WA60H4100HY/TL Fully-automatic Top-loading Washing Machine</string>
+			<key>price</key>
+			<string>Rs. 14,940.00</string>
+			<key>Brand</key>
+			<string>Samsung</string>
+			<key>Control Console</key>
+			<string>Fully Automatic</string>
+			<key>Model</key>
+			<string>WA60H4100HY</string>
+			<key>Capacity</key>
+			<string>6 Kilograms</string>
+			<key>image</key>
+			<string>samsungWM.jpg</string>
+		</dict>
+	</array>
+	<key>LED</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Samsung 80 cm (32 inches) FH4003 HD Ready LED TV </string>
+			<key>price</key>
+			<string>Rs. 18,490.00</string>
+			<key>Brand</key>
+			<string>Samsung</string>
+			<key>Screen Size</key>
+			<string>32 Inches</string>
+			<key>Model</key>
+			<string>UA32FH4003R</string>
+			<key>Display Resolution </key>
+			<string>720p</string>
+			<key>image</key>
+			<string>SamsungTV1.jpg</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Panasonic TH-24D400DX 24 Inches HD LED TVp</string>
+			<key>price</key>
+			<string>Rs. 10,990.00</string>
+			<key>Brand</key>
+			<string>Panasonic</string>
+			<key>Screen Size</key>
+			<string>24 Inches</string>
+			<key>Model</key>
+			<string>TH-24D400DX</string>
+			<key>Display Resolution </key>
+			<string>720p</string>
+			<key>image</key>
+			<string>panasonicTV1.jpg</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>LG 43LH547A 108 cm (43 inches) Full HD LED IPS TV </string>
+			<key>price</key>
+			<string>Rs. 34,990.00 </string>
+			<key>Brand</key>
+			<string>LG</string>
+			<key>Screen Size</key>
+			<string>43 Inches</string>
+			<key>Model</key>
+			<string>43LH547A</string>
+			<key>Display Resolution </key>
+			<string>1080p</string>
+			<key>image</key>
+			<string>LGTV1.jpg</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Samsung 24 inch HD READY LED TV</string>
+			<key>price</key>
+			<string>Rs. 11,990.00</string>
+			<key>Brand</key>
+			<string>Samsung</string>
+			<key>Screen Size</key>
+			<string>24 inches</string>
+			<key>Model</key>
+			<string>LT24E310</string>
+			<key>Display Resolution </key>
+			<string>1366x768</string>
+			<key>image</key>
+			<string>samsungtv2.jpg</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Micromax 80 cm HD Ready LED TV</string>
+			<key>price</key>
+			<string>Rs. 13,990.00</string>
+			<key>Brand</key>
+			<string>Micromax</string>
+			<key>Screen Size</key>
+			<string>32 Inches</string>
+			<key>Model</key>
+			<string>32T7260MHD</string>
+			<key>Display Resolution </key>
+			<string>720p</string>
+			<key>image</key>
+			<string>micromaxTv.jpg</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sony (40 inches) BRAVIA  Full HD Smart LED TV</string>
+			<key>price</key>
+			<string>Rs. 45,550.00</string>
+			<key>Brand</key>
+			<string>Sony</string>
+			<key>Screen Size</key>
+			<string>40 Inches</string>
+			<key>Model</key>
+			<string>KLV-40W562D</string>
+			<key>Display Resolution </key>
+			<string>1080p</string>
+			<key>image</key>
+			<string>SonyTv1.jpg</string>
+		</dict>
+	</array>
+</dict>
+</plist>
