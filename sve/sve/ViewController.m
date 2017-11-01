@@ -185,7 +185,7 @@
     protype=@"Washing Machine";
 }
 - (IBAction)LED:(id)sender {
-    URLString = @"https://api.mongolab.com/api/1/databases/sve/collections/LED?apiKey=API_KEy" ;
+    URLString = @"https://api.mongolab.com/api/1/databases/sve/collections/LED?apiKey=API_KEY" ;
     [self getCountryInfo];
     protype=@"LED";
 }
