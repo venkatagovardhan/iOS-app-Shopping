@@ -169,23 +169,23 @@
 }
 
 - (IBAction)button:(id)sender {
-    URLString = @"https://api.mongolab.com/api/1/databases/sve/collections/Fridge?apiKey=HkJ7IvR82444hSLm5ZOSkxsYRdXPV-9r" ;
+    URLString = @"https://api.mongolab.com/api/1/databases/sve/collections/Fridge?apiKey=API_KEy" ;
     [self getCountryInfo];
     protype=@"Fridge";
 }
 - (IBAction)Airconditioner:(id)sender {
-    URLString = @"https://api.mongolab.com/api/1/databases/sve/collections/Airconditioner?apiKey=HkJ7IvR82444hSLm5ZOSkxsYRdXPV-9r" ;
+    URLString = @"https://api.mongolab.com/api/1/databases/sve/collections/Airconditioner?apiKey=API_KEy" ;
     [self getCountryInfo];
     protype=@"Airconditioner";
     
 }
 - (IBAction)WashingMachine:(id)sender {
-    URLString = @"https://api.mongolab.com/api/1/databases/sve/collections/Washing_Machine?apiKey=HkJ7IvR82444hSLm5ZOSkxsYRdXPV-9r" ;
+    URLString = @"https://api.mongolab.com/api/1/databases/sve/collections/Washing_Machine?apiKey=API_KEy" ;
     [self getCountryInfo];
     protype=@"Washing Machine";
 }
 - (IBAction)LED:(id)sender {
-    URLString = @"https://api.mongolab.com/api/1/databases/sve/collections/LED?apiKey=HkJ7IvR82444hSLm5ZOSkxsYRdXPV-9r" ;
+    URLString = @"https://api.mongolab.com/api/1/databases/sve/collections/LED?apiKey=API_KEy" ;
     [self getCountryInfo];
     protype=@"LED";
 }
